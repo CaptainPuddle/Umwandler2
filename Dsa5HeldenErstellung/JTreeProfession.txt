@@ -1,0 +1,18 @@
+Profession
+	Barde (150 AP)
+		Geschichtenerzähler (144 AP)
+		Skalde (162 AP)
+	Gardist (246 AP)
+		Aufseher (235 AP)
+		Kerkermeister (240 AP)
+		Zöllner (257 AP)
+	Gaukler (160 AP)
+		Akrobat (173 AP)
+		Dompteur (171 AP)
+		Messerwerfer (160 AP)
+		Possenreißer (154 AP)
+		Wahrsager (146 AP)
+	Gladiator (164 AP)
+		Grubenkämpfer (139 AP)
+		Schaukämpfer (159 AP)
+	
