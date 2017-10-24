@@ -8,7 +8,6 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.JSplitPane;
 import javax.swing.JList;
-import java.awt.GridLayout;
 import javax.swing.JButton;
 import java.awt.GridBagLayout;
 import java.awt.GridBagConstraints;
@@ -16,16 +15,11 @@ import java.awt.Insets;
 import javax.swing.JLabel;
 import javax.swing.JTextPane;
 import javax.swing.AbstractListModel;
-import javax.swing.SwingConstants;
-import javax.swing.border.BevelBorder;
-import javax.swing.UIManager;
-import java.awt.Color;
 import java.awt.SystemColor;
 import javax.swing.JTabbedPane;
 import javax.swing.JTextField;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
-import javax.swing.JFormattedTextField;
 import javax.swing.table.DefaultTableModel;
 
 public class Main extends JFrame {
